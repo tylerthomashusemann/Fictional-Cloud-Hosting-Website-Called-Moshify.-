@@ -1,0 +1,23 @@
+{
+  "name": "first-project",
+  "version": "1.0.0",
+  "description": "\"# First-Project\"",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tylerthomashusemann/First-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tylerthomashusemann/First-Project/issues"
+  },
+  "homepage": "https://github.com/tylerthomashusemann/First-Project#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
