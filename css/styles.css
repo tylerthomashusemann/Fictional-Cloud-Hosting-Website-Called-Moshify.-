@@ -522,7 +522,7 @@ a {
 .testimonial__image > .icon-container {
   position: absolute;
   top: 3rem;
-  right: -30px;
+  right: -22px;
 }
 
 @media screen and (min-width: 1024px) {
@@ -532,7 +532,7 @@ a {
   }
 
   .testimonial .quote {
-    margin-left: 6rem;
+    margin-left: 7rem;
   }
 }
 
@@ -777,7 +777,7 @@ a {
 
 .feature {
   gap: 4rem 2rem;
-  margin: 6rem;
+  margin: 7.4rem;
 }
 
 .feature:first-of-type {
